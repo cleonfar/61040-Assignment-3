@@ -1,3 +1,9 @@
+[Link to code](dataAnalysis.ts)
+[Link to tests](dataAnalysis-tests.ts)
+[Link to UI sketches](UISketches.png)
+[Link to Original Spec](DataAnalysisOrig.Spec)
+[Link to AI Spec](DataAnalysisAI.Spec)
+
 ## User Journey
 
 A user has the reports on the the performance of their livestock, but does not want to take the time to go over
